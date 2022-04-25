@@ -1,6 +1,7 @@
+<!--
 ### Hi there 👋
 
-<!--
+
 **sooyyoung/sooyyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,6 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sooyyoung&layout=compact&border_color=ffffff)](https://github.com/sooyyoung/github-readme-stats)
+<div align="center">
+  <h3>Hello world 👋</h3>
+  <br>
+  <a href="https://github.com/sooyyoung/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sooyyoung&layout=compact&border_color=ffffff" />
+  </a>
+</div>
