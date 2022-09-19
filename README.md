@@ -17,10 +17,10 @@
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white"/> 
     <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> 
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-    <br><br>
-    <a href="https://github.com/sooyyoung/github-readme-stats">
+    <br>
+    <!-- <a href="https://github.com/sooyyoung/github-readme-stats">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sooyyoung&layout=compact" />
-    </a>
+    </a> -->
   </div>
   
   
